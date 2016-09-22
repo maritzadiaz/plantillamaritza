@@ -20,11 +20,16 @@ background-size: cover;
 
 }
 
+figure{
+        background: white;
+        margin-bottom: 20px;
+        border-radius: 10px;
+	}
 h1{
 font-family: 'gothic book', cursive;
 color: white;
 margin-left: 10px;
-font-size: 40px;
+font-size: 20px;
 text-align: center; 
 }
 
@@ -53,7 +58,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: darkblue;
+background: rgb(0,102,128);
 border-radius: 10px;
 
 }
@@ -66,10 +71,11 @@ li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
-	background: royalblue;
+	background: rgb(242,184,13);
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
+	text-align: center;
 
 }
 
@@ -95,7 +101,7 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: darkblue;
+background: rgb(0,102,128);
 float: left;
 margin-top: 20px;
 border-radius: 10px;
