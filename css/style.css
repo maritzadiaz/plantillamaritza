@@ -17,6 +17,7 @@ body{
 background-image: url(../img/fondo1.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+
 }
 
 h1{
@@ -38,7 +39,7 @@ text-align: center;
 h3{
 font-family: 'gothic book', cursive;;
 color: white;
-font-size: 30px;
+font-size: 15px;
 text-align: center; 
 }
 
